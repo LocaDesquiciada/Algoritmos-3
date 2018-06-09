@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="analysis">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/xercesImpl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/xmlParserAPIs.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/xom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/asm.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/jdom.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/pmd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/xml-apis.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/icu4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/ant.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/jaxen.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/dom4j.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/junit.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TP1-AlgoTrip/libs/analysis/xalan.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
